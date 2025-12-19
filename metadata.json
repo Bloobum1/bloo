@@ -1,0 +1,17 @@
+{
+  "name": "Bloobum",
+  "symbol": "BLOO",
+  "description": "Blooey goes to the moon 🚀",
+  "image": "https://ibb.co/1YrRGrHm",
+  "external_url": "https://x.com/bloobumisdaman",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ibb.co/1YrRGrHm",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
+}
